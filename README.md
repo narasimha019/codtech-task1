@@ -47,6 +47,9 @@ The project successfully demonstrated the design and simulation of basic digital
 
 
   Full adder output wave forms after running the test beanch 
+
+
+  
   ![image](https://github.com/user-attachments/assets/87c61133-64e8-4f01-9177-87ee8fba3937)
 
 
