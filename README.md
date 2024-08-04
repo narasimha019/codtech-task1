@@ -42,6 +42,8 @@ Conclusion:
 The project successfully demonstrated the design and simulation of basic digital logic components: AND gate, full adder, and 2:1 multiplexer. Through this project, a deeper understanding of digital logic design and its applications was achieved. The simulations confirmed the theoretical behavior of these digital components, showcasing their importance in building more complex digital systems. This project lays a strong foundation for further exploration in digital electronics and circuit design.
 
 
+![and-gate-output-waveform](https://github.com/user-attachments/assets/06cc86a2-2b9b-4b37-bf87-97cad750ca49)
+
 
 
 
