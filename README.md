@@ -53,6 +53,13 @@ The project successfully demonstrated the design and simulation of basic digital
   ![image](https://github.com/user-attachments/assets/87c61133-64e8-4f01-9177-87ee8fba3937)
 
 
+  2:1 multiplexes output wave forms after running the test beanch 
+
+
+![image](https://github.com/user-attachments/assets/52068657-4f2a-4457-a40d-ff268faec85e)
+
+
+
 
 
 
