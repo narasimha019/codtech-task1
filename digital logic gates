@@ -1,3 +1,5 @@
+// verilog code for the digital logic design(and gate, full adder and 2:1 mux).
+
 //verilog code for AND gate
 module AND_Gate (
     input wire A,
