@@ -1,8 +1,8 @@
 NAME : kaviri Lakshmi Narasimha
 Company: CODTECH IT SOLUTIONS
-ID:
+ID:CT6WDS1205
 Domain: VLSI
-Duration: 
+Duration: JULY 10th, 2024 to AUGUST 25th, 2024.
 Mentor: 
 
 Project Title: Design and Simulation of Digital Logic Gates: AND Gate, Full Adder, and 2:1 Multiplexer
