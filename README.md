@@ -41,8 +41,14 @@ ModelSim: For verifying digital designs through simulation.
 Conclusion:
 The project successfully demonstrated the design and simulation of basic digital logic components: AND gate, full adder, and 2:1 multiplexer. Through this project, a deeper understanding of digital logic design and its applications was achieved. The simulations confirmed the theoretical behavior of these digital components, showcasing their importance in building more complex digital systems. This project lays a strong foundation for further exploration in digital electronics and circuit design.
 
-
+  AND Gate output wave forms after running the test beanch 
+  
 ![and-gate-output-waveform](https://github.com/user-attachments/assets/06cc86a2-2b9b-4b37-bf87-97cad750ca49)
+
+
+  Full adder output wave forms after running the test beanch 
+  ![image](https://github.com/user-attachments/assets/87c61133-64e8-4f01-9177-87ee8fba3937)
+
 
 
 
